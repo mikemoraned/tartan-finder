@@ -9,6 +9,8 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "eslint": "^5.4.0",
+    "express": "^4.16.3",
     "tartan": "^5.0.1"
   }
 }
